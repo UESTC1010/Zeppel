@@ -27,6 +27,8 @@ To train,eval or predict, the code is in `mbert2gpt2`,`mbert2gpt2_chinese`,`mber
 
 Our Zeppel model's code is in  `mbert2gpt2_chinese`.
 
+The download link of data is: https://pan.baidu.com/s/1jK1BM5BBvwYNMzhkWatlnw ; extraction code is: `wywg`
+
 -----------------------------------------------------
 ## Setup:
 
